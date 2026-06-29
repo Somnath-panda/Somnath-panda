@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-*   👨‍💻 **About Me**: Full-Stack Developer focused on the MERN Stack.
+*   👨‍💻 **About Me**: Passionate Software Developer focusing on full-stack web architectures and databases.
 *   🎓 **Education**: B.Tech in Computer Science Engineering (Class of 2027).
 *   🌱 **Currently Learning**: Advanced backend architecture and modern web development.
 *   🧩 **Interests**: Strong focus on Data Structures & Algorithms.
