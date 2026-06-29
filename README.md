@@ -13,7 +13,7 @@
 *   **Languages**: Java, JavaScript, Python, C (Basics)
 *   **Frontend**: React.js, HTML, CSS, Tailwind CSS
 *   **Backend**: Node.js, Express.js
-*   **Database**: MongoDB, MySQL
+*   **Database**: MongoDB, MySQL, PostgreSQL
 *   **Tools**: Git, GitHub, Postman, VS Code
 
 
