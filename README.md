@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 About Me<br>🎓 B.Tech in Computer Science Engineering (2027)<br>💻 Full-Stack Developer focused on MERN Stack<br>🌱 Currently learning advanced backend architecture and modern web development<br>🧩 Strong interest in Data Structures & Algorithms<br>🚀 Passionate about building real-world projects<br>🛠 Tech Stack<br><br>Languages: Java, JavaScript, Python, C (Basics)<br>Frontend: React.js, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, VS Code
+👨‍💻 About Me<br>🎓 B.Tech in Computer Science Engineering (2027)<br>💻 Full-Stack Developer focused on MERN Stack<br>🌱 Currently learning advanced backend architecture and modern web development<br>🧩 Strong interest in Data Structures & Algorithms<br>🚀 Passionate about building real-world projects<br>
+🛠 Tech Stack<br><br>Languages: Java, JavaScript, Python, C (Basics)<br>Frontend: React.js, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, VS Code
 
 
 ## 🌐 Socials:
