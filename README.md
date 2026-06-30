@@ -8,25 +8,11 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-*   **Languages**: Java, JavaScript, Python, C (Basics)
-*   **Frontend**: React.js, HTML, CSS, Tailwind CSS
-*   **Backend**: Node.js, Express.js
-*   **Database**: MongoDB, MySQL, PostgreSQL
-*   **Tools**: Git, GitHub, Postman, VS Code
-
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnathpanda885@gmail.com)
 
-
-# 💻 Tech Stack:
-
-### 🗣️ Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💻 Tech Stack
 
